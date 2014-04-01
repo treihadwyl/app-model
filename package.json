@@ -5,7 +5,7 @@
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/treihadwyl/base-module"
+    "url": "git://github.com/treihadwyl/tr-model"
   },
   "scripts": {
     "test": "gulp test"
