@@ -1,6 +1,6 @@
 {
   "name": "tr-model",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Model Base Class",
   "main": "main.js",
   "repository": {
