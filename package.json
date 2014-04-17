@@ -1,11 +1,11 @@
 {
-  "name": "tr-model",
+  "name": "app-model",
   "version": "0.0.1",
   "description": "Model Base Class",
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/treihadwyl/tr-model"
+    "url": "git://github.com/treihadwyl/app-model"
   },
   "scripts": {
     "test": "gulp test"
